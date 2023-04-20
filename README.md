@@ -1,2 +1,2 @@
 # MoneyCanChangeTheWorld
-A Web application on which users can see how much money would be needed to change some things in the world. For example building schools in africa.
+MoneyCanChangeTheWorld is an interactive web application designed to educate users about the financial impact of social initiatives around the globe. By providing real-world examples, such as the cost of building schools in Africa, the app aims to inspire users to take action and contribute towards making a positive difference in the world. Explore various projects, learn about their financial requirements, and discover how your contributions can change lives for the better. Together, we can create a brighter future.
